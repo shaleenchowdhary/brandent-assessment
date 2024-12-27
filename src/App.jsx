@@ -8,7 +8,7 @@ const App = () => {
     <div>
       <button className="fixed z-10 bottom-2 right-2 w-11 h-11 rounded-full">
         <img
-          src="./assets/wa-icon.svg"
+          src="https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg"
           alt="whatsapp"
           className="w-full h-full"
         />
