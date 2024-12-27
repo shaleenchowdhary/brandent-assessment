@@ -1,6 +1,6 @@
 const Section2 = () => {
   return (
-    <div className="w-full px-3 bg-[url(./assets/6.jpg)] bg-cover bg-fixed bg-center mt-5">
+    <div className="w-full px-3 bg-[url('https://ekalblspindia.org/wp-content/uploads/2023/10/eductaion-crisis-bg.jpg')] bg-cover bg-fixed bg-center mt-5">
       <div className="md:w-[80%] lg:flex mx-auto w-full py-10 gap-x-5">
         <div className="w-full text-justify text-white">
           <h1 className="text-3xl md:text-4xl pb-8 text-nowrap">
