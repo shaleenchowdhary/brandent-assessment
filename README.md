@@ -1,8 +1,9 @@
-# Brandent Assessment
-This repository contains the solution for the Brandent Frontend Developer Assessment.
+# Brandent Assignment
+This repository contains the solution for the Brandent Frontend Developer Assessment. It showcases a static, responsive landing page built with React and Tailwind CSS. The project emphasizes clean design and responsiveness.
 
 ## Technologies Used
-- React.js
-- Tailwind CSS
+- Frontend Framework: React.js
+- Styling: Tailwind CSS
+- Version Control: Git
 
-### Live [Link](https://brandent-assessment.vercel.app/)
+### Explore the project live: [Brandent Assignment](https://brandent-assessment.vercel.app/)
