@@ -5,4 +5,4 @@ This repository contains the solution for the Brandent Frontend Developer Assess
 - Frontend Framework: **React.js**
 - Styling: **Tailwind CSS**
 
-### Explore the project live: [Brandent Assignment](https://brandent-assessment.vercel.app/)
+### Explore the project live: [Brandent Assignment](https://brandent-assessment-shaleen.vercel.app/)
